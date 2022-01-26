@@ -1,0 +1,30 @@
+body{
+   
+    font-family: Maiandra GD;
+    background-color:#f1eae2;
+
+   
+}
+
+.fdiv{
+    background: url("../images/6.jpg");
+    background-size: cover;
+    height: 400px;
+    margin-top: -1%;
+}
+
+.fdiv_old{
+    background: white;
+    background-size: cover;
+    height: 430px;
+    margin-top: -1%;
+}
+
+.fdiv1{
+
+    height: 400px;
+    background: white;
+    overflow: auto;
+    margin-top:2%;
+
+}
